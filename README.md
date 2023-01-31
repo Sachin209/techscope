@@ -1,14 +1,6 @@
 ## Electronic Device Service System -Techscope (2022)
 
-Mediclinic is a mobile application created for both patients and doctors to
-work with ease. No need for physical meet-ups with doctors. So that doctors
-and patient can share their health issues through this app. Join clinics, and
-add notes and notices, are the main benefits you can gain from this app.
-
-In this project, I am responsible for the implementation of the doctor and patient profile management system.
-This system provides a convenient solution for both doctors and patients to identify and access their respective profiles with ease.
-Doctors and patients can create their profiles by inputting relevant personal details, and the profiles are displayed on separate pages.
-The profile information can be edited or deleted as needed, ensuring the accuracy and up-to-date nature of the profiles.
+Techscope Electronic is a repair company for electronics devices such as air conditioners and computers. It has a diverse team of employees including engineers, managers, accountants, and cleaners. The company uses a system to manage employee profiles, customer profiles, appointment scheduling, and repair management. The system's goal is to provide efficient and easy access for customers.
 <br>
 
    ⚙ Technologies -  Java, MySQL, bootstrap 4
